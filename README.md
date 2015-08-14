@@ -1,6 +1,6 @@
 # bazel-example
 
-A sample [https://github.com/google/bazel](Bazel) project that builds a web server and serves a compiled JS application. Use of the following build rules are demonstrated:
+A sample [Bazel](https://github.com/google/bazel) project that builds a web server and serves a compiled JS application. Use of the following build rules are demonstrated:
 
 * closure_js_binary
 * closure_js_library
@@ -9,7 +9,7 @@ A sample [https://github.com/google/bazel](Bazel) project that builds a web serv
 * py_binary
 * py_library
 
-The project also makes use of the [https://github.com/bottlepy/bottle](Bottle) and [https://github.com/google/python-gflags](GFlags) projects as external dependencies.
+The project also makes use of the [Bottle](https://github.com/bottlepy/bottle) and [GFlags](https://github.com/google/python-gflags) projects as external dependencies.
 
 Use the following commands to build/run the project:
 
