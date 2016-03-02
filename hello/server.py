@@ -2,7 +2,7 @@
 
 from external.bottle import bottle
 
-application = bottle.default_app()
+application = bottle.Bottle()
 
 
 @application.route('/')
